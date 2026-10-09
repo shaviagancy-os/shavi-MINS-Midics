@@ -1,0 +1,6 @@
+{
+  "name": "Shavi Medical Growth",
+  "description": "Shavi Medical Growth تساعد العيادات والمراكز الطبية على بناء منظومة متكاملة لجذب العملاء المحتملين، تحسين التحويل، إدارة الـFollow-up وقياس النمو.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
